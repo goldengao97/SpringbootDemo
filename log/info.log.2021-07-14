@@ -1,0 +1,62 @@
+2021-07-14 14:38:40  [ restartedMain:111 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 6032 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-14 14:38:40  [ restartedMain:112 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-14 14:38:40  [ restartedMain:150 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-14 14:38:40  [ restartedMain:150 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-14 14:38:41  [ restartedMain:565 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-14 14:38:41  [ restartedMain:574 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2021-07-14 14:38:41  [ restartedMain:920 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-14 14:38:41  [ restartedMain:974 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 824 ms
+2021-07-14 14:38:42  [ restartedMain:1406 ] - [ INFO ]  Adding welcome page template: index
+2021-07-14 14:38:42  [ restartedMain:1538 ] - [ INFO ]  test - Starting...
+2021-07-14 14:38:42  [ restartedMain:2014 ] - [ INFO ]  test - Start completed.
+2021-07-14 14:38:42  [ restartedMain:2056 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-14 14:38:42  [ restartedMain:2078 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-14 14:38:42  [ restartedMain:2095 ] - [ INFO ]  Started DemoApplication in 2.26 seconds (JVM running for 3.036)
+2021-07-14 14:38:42  [ restartedMain:2098 ] - [ INFO ]  ------------Demo启动完成！------------
+2021-07-14 14:39:07  [ http-nio-8080-exec-1:27102 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-14 14:39:07  [ http-nio-8080-exec-1:27104 ] - [ INFO ]  Completed initialization in 2 ms
+2021-07-14 14:46:14  [ restartedMain:109 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 1156 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-14 14:46:14  [ restartedMain:110 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-14 14:46:14  [ restartedMain:145 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-14 14:46:14  [ restartedMain:145 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-14 14:46:14  [ restartedMain:536 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-14 14:46:14  [ restartedMain:544 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2021-07-14 14:46:15  [ restartedMain:870 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-14 14:46:15  [ restartedMain:924 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 778 ms
+2021-07-14 14:46:15  [ restartedMain:1285 ] - [ INFO ]  Adding welcome page template: index
+2021-07-14 14:46:15  [ restartedMain:1384 ] - [ INFO ]  test - Starting...
+2021-07-14 14:46:16  [ restartedMain:1810 ] - [ INFO ]  test - Start completed.
+2021-07-14 14:46:16  [ restartedMain:1851 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-14 14:46:16  [ restartedMain:1871 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-14 14:46:16  [ restartedMain:1888 ] - [ INFO ]  Started DemoApplication in 2.015 seconds (JVM running for 2.753)
+2021-07-14 14:46:16  [ restartedMain:1893 ] - [ INFO ]  ------------Demo启动完成！------------
+2021-07-14 14:46:17  [ http-nio-8080-exec-1:3619 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-14 14:46:17  [ http-nio-8080-exec-1:3620 ] - [ INFO ]  Completed initialization in 1 ms
+2021-07-14 14:47:07  [ http-nio-8080-exec-6:53210 ] - [ INFO ]  添加成功4个用户，失败0个
+2021-07-14 14:58:39  [ main:258 ] - [ INFO ]  Starting DemoApplication v0.0.1-SNAPSHOT using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 22416 (D:\demo\target\demo-0.0.1-SNAPSHOT.jar started by LegionGolden in D:\demo)
+2021-07-14 14:58:39  [ main:259 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-14 14:58:40  [ main:1302 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-14 14:58:40  [ main:1313 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-14 14:58:41  [ main:2178 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-14 14:58:41  [ main:2255 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1910 ms
+2021-07-14 14:58:42  [ main:3014 ] - [ INFO ]  Adding welcome page template: index
+2021-07-14 14:58:42  [ main:3207 ] - [ INFO ]  test - Starting...
+2021-07-14 14:58:43  [ main:3768 ] - [ INFO ]  test - Start completed.
+2021-07-14 14:58:43  [ main:3841 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-14 14:58:43  [ main:3862 ] - [ INFO ]  Started DemoApplication in 4.179 seconds (JVM running for 4.713)
+2021-07-14 14:58:43  [ main:3864 ] - [ INFO ]  ------------Demo������ɣ�------------
+2021-07-14 16:39:33  [ restartedMain:203 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 1728 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-14 16:39:33  [ restartedMain:204 ] - [ INFO ]  The following profiles are active: dev
+2021-07-14 16:39:33  [ restartedMain:268 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-14 16:39:33  [ restartedMain:269 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-14 16:39:33  [ restartedMain:910 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-14 16:39:33  [ restartedMain:923 ] - [ INFO ]  Finished Spring Data repository scanning in 7 ms. Found 0 JDBC repository interfaces.
+2021-07-14 16:39:34  [ restartedMain:1541 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-14 16:39:34  [ restartedMain:1634 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1365 ms
+2021-07-14 16:39:35  [ restartedMain:2205 ] - [ INFO ]  Adding welcome page template: index
+2021-07-14 16:39:35  [ restartedMain:2349 ] - [ INFO ]  test - Starting...
+2021-07-14 16:39:35  [ restartedMain:2923 ] - [ INFO ]  test - Start completed.
+2021-07-14 16:39:35  [ restartedMain:2966 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-14 16:39:35  [ restartedMain:2992 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-14 16:39:35  [ restartedMain:3019 ] - [ INFO ]  Started DemoApplication in 3.271 seconds (JVM running for 4.707)
+2021-07-14 16:39:35  [ restartedMain:3021 ] - [ INFO ]  ------------Demo启动完成！------------

@@ -1,0 +1,302 @@
+2021-07-13 17:07:47  [ main:203 ] - [ INFO ]  Starting DemoApplication v0.0.1-SNAPSHOT using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 10016 (D:\demo\target\demo-0.0.1-SNAPSHOT.jar started by LegionGolden in D:\demo)
+2021-07-13 17:07:47  [ main:203 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:07:48  [ main:1141 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:07:48  [ main:1141 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:07:49  [ main:2129 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:07:49  [ main:2207 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1941 ms
+2021-07-13 17:07:49  [ main:3004 ] - [ INFO ]  Adding welcome page template: index
+2021-07-13 17:07:50  [ main:3191 ] - [ INFO ]  test - Starting...
+2021-07-13 17:07:50  [ main:3897 ] - [ INFO ]  test - Start completed.
+2021-07-13 17:07:50  [ main:3975 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-13 17:07:50  [ main:4007 ] - [ INFO ]  Started DemoApplication in 4.262 seconds (JVM running for 4.709)
+2021-07-13 17:07:50  [ main:4007 ] - [ INFO ]  ------------Demo������ɣ�------------
+2021-07-13 17:08:02  [ http-nio-8080-exec-1:15609 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-13 17:08:02  [ http-nio-8080-exec-1:15609 ] - [ INFO ]  Completed initialization in 0 ms
+2021-07-13 17:08:21  [ restartedMain:109 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 30896 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-13 17:08:21  [ restartedMain:109 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:08:21  [ restartedMain:141 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-13 17:08:21  [ restartedMain:141 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-13 17:08:21  [ restartedMain:484 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:08:21  [ restartedMain:500 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:08:22  [ restartedMain:812 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:08:22  [ restartedMain:859 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 718 ms
+2021-07-13 17:08:22  [ restartedMain:1203 ] - [ INFO ]  Adding welcome page template: index
+2021-07-13 17:08:22  [ restartedMain:1297 ] - [ INFO ]  test - Starting...
+2021-07-13 17:08:23  [ restartedMain:1773 ] - [ INFO ]  test - Start completed.
+2021-07-13 17:08:23  [ restartedMain:1819 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-13 17:08:23  [ restartedMain:1835 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-13 17:08:23  [ restartedMain:1851 ] - [ INFO ]  Started DemoApplication in 1.983 seconds (JVM running for 2.843)
+2021-07-13 17:08:23  [ restartedMain:1851 ] - [ INFO ]  ------------Demo启动完成！------------
+2021-07-13 17:08:37  [ http-nio-8080-exec-1:16159 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-13 17:08:37  [ http-nio-8080-exec-1:16160 ] - [ INFO ]  Completed initialization in 1 ms
+2021-07-13 17:08:48  [ http-nio-8080-exec-4:27435 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'test_user.PRIMARY'
+2021-07-13 17:08:48  [ http-nio-8080-exec-4:27438 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'test_user.PRIMARY'
+2021-07-13 17:08:48  [ http-nio-8080-exec-4:27439 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '4' for key 'test_user.PRIMARY'
+2021-07-13 17:08:48  [ http-nio-8080-exec-4:27440 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '5' for key 'test_user.PRIMARY'
+2021-07-13 17:08:48  [ http-nio-8080-exec-4:27440 ] - [ INFO ]  添加成功0个用户，失败4个
+2021-07-13 17:08:53  [ http-nio-8080-exec-5:31717 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'test_user.PRIMARY'
+2021-07-13 17:08:53  [ http-nio-8080-exec-5:31718 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'test_user.PRIMARY'
+2021-07-13 17:08:53  [ http-nio-8080-exec-5:31719 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '4' for key 'test_user.PRIMARY'
+2021-07-13 17:08:53  [ http-nio-8080-exec-5:31720 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '5' for key 'test_user.PRIMARY'
+2021-07-13 17:08:53  [ http-nio-8080-exec-5:31720 ] - [ INFO ]  添加成功0个用户，失败4个
+2021-07-13 17:09:00  [ http-nio-8080-exec-3:39235 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'test_user.PRIMARY'
+2021-07-13 17:09:00  [ http-nio-8080-exec-3:39236 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'test_user.PRIMARY'
+2021-07-13 17:09:00  [ http-nio-8080-exec-3:39237 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '4' for key 'test_user.PRIMARY'
+2021-07-13 17:09:00  [ http-nio-8080-exec-3:39237 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '5' for key 'test_user.PRIMARY'
+2021-07-13 17:09:00  [ http-nio-8080-exec-3:39237 ] - [ INFO ]  添加成功0个用户，失败4个
+2021-07-13 17:37:44  [ restartedMain:119 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 28896 (D:\demo\out\artifacts\demo_jar\demo.jar started by LegionGolden in D:\demo)
+2021-07-13 17:37:44  [ restartedMain:119 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:37:44  [ restartedMain:156 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-13 17:37:44  [ restartedMain:156 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-13 17:37:44  [ restartedMain:529 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:37:44  [ restartedMain:539 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:37:45  [ restartedMain:1289 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:37:45  [ restartedMain:1337 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1180 ms
+2021-07-13 17:37:46  [ restartedMain:1833 ] - [ INFO ]  Adding welcome page template: index
+2021-07-13 17:37:46  [ restartedMain:1958 ] - [ INFO ]  test - Starting...
+2021-07-13 17:37:46  [ restartedMain:2556 ] - [ INFO ]  test - Start completed.
+2021-07-13 17:37:47  [ restartedMain:2605 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-13 17:37:47  [ restartedMain:2626 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-13 17:37:47  [ restartedMain:2645 ] - [ INFO ]  Started DemoApplication in 2.773 seconds (JVM running for 3.058)
+2021-07-13 17:37:47  [ restartedMain:2647 ] - [ INFO ]  ------------Demo������ɣ�------------
+2021-07-13 17:38:27  [ restartedMain:117 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 23856 (D:\demo\out\artifacts\demo_jar\demo.jar started by LegionGolden in D:\demo)
+2021-07-13 17:38:27  [ restartedMain:117 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:38:27  [ restartedMain:151 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-13 17:38:27  [ restartedMain:151 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-13 17:38:28  [ restartedMain:522 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:38:28  [ restartedMain:532 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:38:29  [ restartedMain:1287 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:38:29  [ restartedMain:1334 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1182 ms
+2021-07-13 17:38:29  [ restartedMain:1807 ] - [ INFO ]  Adding welcome page template: index
+2021-07-13 17:38:29  [ restartedMain:1948 ] - [ INFO ]  test - Starting...
+2021-07-13 17:38:30  [ restartedMain:2556 ] - [ INFO ]  test - Start completed.
+2021-07-13 17:38:30  [ restartedMain:2599 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-13 17:38:30  [ restartedMain:2618 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-13 17:38:30  [ restartedMain:2636 ] - [ INFO ]  Started DemoApplication in 2.762 seconds (JVM running for 3.039)
+2021-07-13 17:38:30  [ restartedMain:2638 ] - [ INFO ]  ------------Demo������ɣ�------------
+2021-07-13 17:41:51  [ main:0 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 22892 (D:\demo\out\artifacts\demo_jar\demo.jar started by LegionGolden in D:\demo)
+2021-07-13 17:41:51  [ main:1 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:41:52  [ main:370 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:41:52  [ main:390 ] - [ INFO ]  Finished Spring Data repository scanning in 15 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:41:53  [ main:1138 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:41:53  [ main:1187 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1151 ms
+2021-07-13 17:41:53  [ main:1344 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+2021-07-13 17:41:53  [ main:1352 ] - [ ERROR ]  Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:17)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 20 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 34 more
+Caused by: java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.util.Assert.notNull(Assert.java:201)
+	at org.mybatis.spring.support.SqlSessionDaoSupport.checkDaoConfig(SqlSessionDaoSupport.java:122)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:73)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 44 more
+2021-07-13 17:42:23  [ main:0 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 28448 (D:\demo\out\artifacts\demo_jar\demo.jar started by LegionGolden in D:\demo)
+2021-07-13 17:42:23  [ main:1 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:42:24  [ main:386 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:42:24  [ main:407 ] - [ INFO ]  Finished Spring Data repository scanning in 16 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:42:24  [ main:1137 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:42:24  [ main:1187 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1147 ms
+2021-07-13 17:42:24  [ main:1349 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+2021-07-13 17:42:25  [ main:1357 ] - [ ERROR ]  Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:17)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 20 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 34 more
+Caused by: java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.util.Assert.notNull(Assert.java:201)
+	at org.mybatis.spring.support.SqlSessionDaoSupport.checkDaoConfig(SqlSessionDaoSupport.java:122)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:73)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 44 more
+2021-07-13 17:44:26  [ main:0 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 24768 (D:\demo\out\artifacts\demo_jar\demo.jar started by LegionGolden in D:\demo)
+2021-07-13 17:44:26  [ main:0 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:44:27  [ main:360 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:44:27  [ main:375 ] - [ INFO ]  Finished Spring Data repository scanning in 15 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:44:28  [ main:1079 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:44:28  [ main:1141 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1109 ms
+2021-07-13 17:44:28  [ main:1297 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+2021-07-13 17:44:28  [ main:1297 ] - [ ERROR ]  Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:17)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 20 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'testUserDao' defined in URL [jar:file:/D:/demo/out/artifacts/demo_jar/demo.jar!/com/example/demo/dao/TestUserDao.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 34 more
+Caused by: java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required
+	at org.springframework.util.Assert.notNull(Assert.java:201)
+	at org.mybatis.spring.support.SqlSessionDaoSupport.checkDaoConfig(SqlSessionDaoSupport.java:122)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:73)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 44 more
+2021-07-13 17:57:00  [ restartedMain:110 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 24568 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-13 17:57:00  [ restartedMain:110 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2021-07-13 17:57:00  [ restartedMain:188 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-13 17:57:00  [ restartedMain:188 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-13 17:57:00  [ restartedMain:750 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-13 17:57:00  [ restartedMain:750 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2021-07-13 17:57:01  [ restartedMain:1078 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-13 17:57:01  [ restartedMain:1141 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 953 ms
+2021-07-13 17:57:01  [ restartedMain:1485 ] - [ INFO ]  Adding welcome page template: index
+2021-07-13 17:57:01  [ restartedMain:1563 ] - [ INFO ]  test - Starting...
+2021-07-13 17:57:02  [ restartedMain:2071 ] - [ INFO ]  test - Start completed.
+2021-07-13 17:57:02  [ restartedMain:2112 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-13 17:57:02  [ restartedMain:2137 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-13 17:57:02  [ restartedMain:2144 ] - [ INFO ]  Started DemoApplication in 2.284 seconds (JVM running for 3.089)
+2021-07-13 17:57:02  [ restartedMain:2144 ] - [ INFO ]  ------------Demo启动完成！------------
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4578 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4578 ] - [ INFO ]  Completed initialization in 0 ms
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4703 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'test_user.PRIMARY'
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4703 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'test_user.PRIMARY'
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4703 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '4' for key 'test_user.PRIMARY'
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4703 ] - [ ERROR ]  用户新增报错---------->java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '5' for key 'test_user.PRIMARY'
+2021-07-13 17:57:04  [ http-nio-8080-exec-1:4703 ] - [ INFO ]  添加成功0个用户，失败4个

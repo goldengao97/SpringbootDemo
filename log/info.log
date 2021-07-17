@@ -1,0 +1,18 @@
+2021-07-17 10:59:23  [ restartedMain:250 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 3752 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-17 10:59:23  [ restartedMain:250 ] - [ INFO ]  The following profiles are active: dev
+2021-07-17 10:59:23  [ restartedMain:313 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-17 10:59:23  [ restartedMain:313 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-17 10:59:24  [ restartedMain:858 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-17 10:59:24  [ restartedMain:874 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2021-07-17 10:59:24  [ restartedMain:1327 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-17 10:59:24  [ restartedMain:1468 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1155 ms
+2021-07-17 10:59:25  [ restartedMain:2146 ] - [ INFO ]  Adding welcome page template: index
+2021-07-17 10:59:25  [ restartedMain:2318 ] - [ INFO ]  test - Starting...
+2021-07-17 10:59:26  [ restartedMain:2950 ] - [ INFO ]  test - Start completed.
+2021-07-17 10:59:26  [ restartedMain:2987 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-17 10:59:26  [ restartedMain:3020 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-17 10:59:26  [ restartedMain:3037 ] - [ INFO ]  Started DemoApplication in 3.317 seconds (JVM running for 4.763)
+2021-07-17 10:59:26  [ restartedMain:3037 ] - [ INFO ]  ------------Demo启动完成！------------
+2021-07-17 10:59:45  [ http-nio-8080-exec-1:22155 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-17 10:59:45  [ http-nio-8080-exec-1:22156 ] - [ INFO ]  Completed initialization in 1 ms
+2021-07-17 10:59:45  [ http-nio-8080-exec-1:22287 ] - [ INFO ]  添加成功4个用户，失败0个

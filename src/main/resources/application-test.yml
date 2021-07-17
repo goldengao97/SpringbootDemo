@@ -1,0 +1,24 @@
+spring:
+  datasource:
+    name: test  #数据库名
+    url: jdbc:mysql://127.0.0.1:3306/test #url
+    username: root  #用户名
+    password: root  #密码
+    driver-class-name: com.mysql.cj.jdbc.Driver  #数据库链接驱动
+  thymeleaf:
+#    content-type: text/html
+#    mode: LEGACYHTML5
+    classpath: /templates   # 访问template下的html文件需要配置模板，映射
+    cache: false # 开发时关闭缓存,不然没法看到实时页面
+server:
+  port: 8080
+
+mybatis:
+  mapper-locations: classpath:/com/example/demo/mapper/*.xml  #配置映射文件
+  type-aliases-package: com.example.demo.bean  #配置实体类
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl  #mybatis console 日志
+
+logging:
+  # 设置log4j.properties位置
+  config: classpath:log4j.properties
