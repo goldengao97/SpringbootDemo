@@ -16,3 +16,20 @@
 2021-07-17 10:59:45  [ http-nio-8080-exec-1:22155 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
 2021-07-17 10:59:45  [ http-nio-8080-exec-1:22156 ] - [ INFO ]  Completed initialization in 1 ms
 2021-07-17 10:59:45  [ http-nio-8080-exec-1:22287 ] - [ INFO ]  添加成功4个用户，失败0个
+2021-07-17 11:33:36  [ restartedMain:123 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 23372 (D:\demo\target\classes started by LegionGolden in D:\demo)
+2021-07-17 11:33:36  [ restartedMain:124 ] - [ INFO ]  The following profiles are active: dev
+2021-07-17 11:33:36  [ restartedMain:161 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-17 11:33:36  [ restartedMain:162 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-17 11:33:36  [ restartedMain:581 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2021-07-17 11:33:36  [ restartedMain:596 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2021-07-17 11:33:36  [ restartedMain:904 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2021-07-17 11:33:36  [ restartedMain:966 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 804 ms
+2021-07-17 11:33:37  [ restartedMain:1330 ] - [ INFO ]  Adding welcome page template: index
+2021-07-17 11:33:37  [ restartedMain:1421 ] - [ INFO ]  test - Starting...
+2021-07-17 11:33:37  [ restartedMain:1869 ] - [ INFO ]  test - Start completed.
+2021-07-17 11:33:37  [ restartedMain:1910 ] - [ INFO ]  LiveReload server is running on port 35729
+2021-07-17 11:33:37  [ restartedMain:1930 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-17 11:33:37  [ restartedMain:1948 ] - [ INFO ]  Started DemoApplication in 2.096 seconds (JVM running for 2.913)
+2021-07-17 11:33:37  [ restartedMain:1951 ] - [ INFO ]  ------------Demo启动完成！------------
+2021-07-17 11:33:57  [ http-nio-8080-exec-1:21418 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2021-07-17 11:33:57  [ http-nio-8080-exec-1:21419 ] - [ INFO ]  Completed initialization in 1 ms

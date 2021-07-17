@@ -7,4 +7,5 @@ import java.util.List;
 public interface TestUserService {
     String findUser(String id);
     String registUser(List<TestUser> testUsers);
+    String deleteUser(List<TestUser> testUsers);
 }

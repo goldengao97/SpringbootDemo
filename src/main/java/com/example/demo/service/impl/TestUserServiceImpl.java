@@ -55,4 +55,25 @@ public class TestUserServiceImpl implements TestUserService {
         logger.info("添加成功"+count+"个用户，失败"+errCount+"个");
         return "添加成功"+count+"个用户，失败"+errCount+"个";
     }
+
+    /**
+     * @description: 删除用户
+     * @date: 2021/7/17 11:30
+     * @author: Golden
+     */
+    @Override
+    public String deleteUser(List<TestUser> testUsers) {
+        int count = 0;
+        int errCount = 0;
+        for (TestUser testUser:testUsers) {
+            if (1 == testUserDao.deleteByPrimaryKey(testUser.getId())) {
+                count++;
+            }else {
+                errCount++;
+            }
+
+        }
+        logger.info("删除成功"+count+"个用户，失败"+errCount+"个");
+        return "删除成功"+count+"个用户，失败"+errCount+"个";
+    }
 }

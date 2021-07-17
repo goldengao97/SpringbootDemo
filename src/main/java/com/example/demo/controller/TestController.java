@@ -35,4 +35,10 @@ public class TestController {
         return msg;
     }
 
+    @RequestMapping("/deleteUser")
+    public String deleteUser(@RequestBody List<TestUser> testUsers){
+        String msg = testUserService.deleteUser(testUsers);
+        return msg;
+    }
+
 }
