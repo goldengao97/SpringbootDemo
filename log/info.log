@@ -1,55 +1,320 @@
-2021-07-17 10:59:23  [ restartedMain:250 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 3752 (D:\demo\target\classes started by LegionGolden in D:\demo)
-2021-07-17 10:59:23  [ restartedMain:250 ] - [ INFO ]  The following profiles are active: dev
-2021-07-17 10:59:23  [ restartedMain:313 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2021-07-17 10:59:23  [ restartedMain:313 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2021-07-17 10:59:24  [ restartedMain:858 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
-2021-07-17 10:59:24  [ restartedMain:874 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
-2021-07-17 10:59:24  [ restartedMain:1327 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
-2021-07-17 10:59:24  [ restartedMain:1468 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1155 ms
-2021-07-17 10:59:25  [ restartedMain:2146 ] - [ INFO ]  Adding welcome page template: index
-2021-07-17 10:59:25  [ restartedMain:2318 ] - [ INFO ]  test - Starting...
-2021-07-17 10:59:26  [ restartedMain:2950 ] - [ INFO ]  test - Start completed.
-2021-07-17 10:59:26  [ restartedMain:2987 ] - [ INFO ]  LiveReload server is running on port 35729
-2021-07-17 10:59:26  [ restartedMain:3020 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
-2021-07-17 10:59:26  [ restartedMain:3037 ] - [ INFO ]  Started DemoApplication in 3.317 seconds (JVM running for 4.763)
-2021-07-17 10:59:26  [ restartedMain:3037 ] - [ INFO ]  ------------Demo启动完成！------------
-2021-07-17 10:59:45  [ http-nio-8080-exec-1:22155 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
-2021-07-17 10:59:45  [ http-nio-8080-exec-1:22156 ] - [ INFO ]  Completed initialization in 1 ms
-2021-07-17 10:59:45  [ http-nio-8080-exec-1:22287 ] - [ INFO ]  添加成功4个用户，失败0个
-2021-07-17 11:33:36  [ restartedMain:123 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 23372 (D:\demo\target\classes started by LegionGolden in D:\demo)
-2021-07-17 11:33:36  [ restartedMain:124 ] - [ INFO ]  The following profiles are active: dev
-2021-07-17 11:33:36  [ restartedMain:161 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2021-07-17 11:33:36  [ restartedMain:162 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2021-07-17 11:33:36  [ restartedMain:581 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
-2021-07-17 11:33:36  [ restartedMain:596 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
-2021-07-17 11:33:36  [ restartedMain:904 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
-2021-07-17 11:33:36  [ restartedMain:966 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 804 ms
-2021-07-17 11:33:37  [ restartedMain:1330 ] - [ INFO ]  Adding welcome page template: index
-2021-07-17 11:33:37  [ restartedMain:1421 ] - [ INFO ]  test - Starting...
-2021-07-17 11:33:37  [ restartedMain:1869 ] - [ INFO ]  test - Start completed.
-2021-07-17 11:33:37  [ restartedMain:1910 ] - [ INFO ]  LiveReload server is running on port 35729
-2021-07-17 11:33:37  [ restartedMain:1930 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
-2021-07-17 11:33:37  [ restartedMain:1948 ] - [ INFO ]  Started DemoApplication in 2.096 seconds (JVM running for 2.913)
-2021-07-17 11:33:37  [ restartedMain:1951 ] - [ INFO ]  ------------Demo启动完成！------------
-2021-07-17 11:33:57  [ http-nio-8080-exec-1:21418 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
-2021-07-17 11:33:57  [ http-nio-8080-exec-1:21419 ] - [ INFO ]  Completed initialization in 1 ms
-2021-07-17 11:35:39  [ restartedMain:141 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on LAPTOP-GOLDEN with PID 22872 (D:\demo\target\classes started by LegionGolden in D:\demo)
-2021-07-17 11:35:39  [ restartedMain:141 ] - [ INFO ]  The following profiles are active: dev
-2021-07-17 11:35:39  [ restartedMain:188 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2021-07-17 11:35:39  [ restartedMain:188 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2021-07-17 11:35:39  [ restartedMain:547 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
-2021-07-17 11:35:39  [ restartedMain:563 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
-2021-07-17 11:35:40  [ restartedMain:876 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
-2021-07-17 11:35:40  [ restartedMain:939 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 751 ms
-2021-07-17 11:35:40  [ restartedMain:1267 ] - [ INFO ]  Adding welcome page template: index
-2021-07-17 11:35:40  [ restartedMain:1367 ] - [ INFO ]  test - Starting...
-2021-07-17 11:35:41  [ restartedMain:1770 ] - [ INFO ]  test - Start completed.
-2021-07-17 11:35:41  [ restartedMain:1802 ] - [ INFO ]  LiveReload server is running on port 35729
-2021-07-17 11:35:41  [ restartedMain:1817 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
-2021-07-17 11:35:41  [ restartedMain:1833 ] - [ INFO ]  Started DemoApplication in 1.993 seconds (JVM running for 2.788)
-2021-07-17 11:35:41  [ restartedMain:1849 ] - [ INFO ]  ------------Demo启动完成！------------
-2021-07-17 11:35:46  [ http-nio-8080-exec-2:7110 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
-2021-07-17 11:35:46  [ http-nio-8080-exec-2:7111 ] - [ INFO ]  Completed initialization in 1 ms
-2021-07-17 11:35:46  [ http-nio-8080-exec-2:7207 ] - [ INFO ]  添加成功4个用户，失败0个
-2021-07-17 11:35:49  [ http-nio-8080-exec-3:10672 ] - [ INFO ]  删除成功4个用户，失败0个
-2021-07-17 11:35:52  [ http-nio-8080-exec-4:13353 ] - [ INFO ]  删除成功0个用户，失败4个
+2022-05-03 10:20:04  [ restartedMain:100 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 10492 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:20:04  [ restartedMain:102 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2022-05-03 10:20:04  [ restartedMain:136 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:20:04  [ restartedMain:136 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:20:05  [ restartedMain:566 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:20:05  [ restartedMain:576 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:20:05  [ restartedMain:931 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:20:05  [ restartedMain:996 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 860 ms
+2022-05-03 10:20:05  [ restartedMain:1052 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserDao' defined in file [D:\demo\target\classes\com\example\demo\dao\TestUserDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-03 10:20:05  [ restartedMain:1093 ] - [ ERROR ]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-03 10:20:15  [ restartedMain:103 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 21336 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:20:15  [ restartedMain:104 ] - [ INFO ]  The following profiles are active: dev
+2022-05-03 10:20:15  [ restartedMain:137 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:20:15  [ restartedMain:137 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:20:15  [ restartedMain:481 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:20:15  [ restartedMain:489 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:20:16  [ restartedMain:794 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:20:16  [ restartedMain:860 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 723 ms
+2022-05-03 10:20:16  [ restartedMain:1243 ] - [ INFO ]  Adding welcome page template: index
+2022-05-03 10:20:16  [ restartedMain:1343 ] - [ INFO ]  test - Starting...
+2022-05-03 10:20:17  [ restartedMain:1790 ] - [ INFO ]  test - Start completed.
+2022-05-03 10:20:17  [ restartedMain:1832 ] - [ INFO ]  LiveReload server is running on port 35729
+2022-05-03 10:20:17  [ restartedMain:1855 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-03 10:20:17  [ restartedMain:1871 ] - [ INFO ]  Started DemoApplication in 1.996 seconds (JVM running for 2.618)
+2022-05-03 10:20:17  [ restartedMain:1873 ] - [ INFO ]  ------------Demo启动完成！------------
+2022-05-03 10:21:04  [ SpringApplicationShutdownHook:48806 ] - [ INFO ]  test - Shutdown initiated...
+2022-05-03 10:21:04  [ SpringApplicationShutdownHook:48809 ] - [ INFO ]  test - Shutdown completed.
+2022-05-03 10:21:08  [ restartedMain:104 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 18484 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:21:08  [ restartedMain:104 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2022-05-03 10:21:08  [ restartedMain:138 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:21:08  [ restartedMain:138 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:21:09  [ restartedMain:525 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:21:09  [ restartedMain:535 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:21:09  [ restartedMain:869 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:21:09  [ restartedMain:945 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 807 ms
+2022-05-03 10:21:09  [ restartedMain:1011 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserDao' defined in file [D:\demo\target\classes\com\example\demo\dao\TestUserDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-03 10:21:09  [ restartedMain:1049 ] - [ ERROR ]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-03 10:22:06  [ restartedMain:24 ] - [ ERROR ]  Application run failed
+while scanning a simple key
+ in 'reader', line 5, column 7:
+          -dev
+          ^
+could not find expected ':'
+ in 'reader', line 5, column 11:
+          -dev
+              ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.removePossibleSimpleKey(ScannerImpl.java:533)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchStreamEnd(ScannerImpl.java:607)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:320)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:248)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:633)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:165)
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:59)
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:45)
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:140)
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:119)
+	at org.yaml.snakeyaml.composer.Composer.composeScalarNode(Composer.java:221)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:191)
+	at org.yaml.snakeyaml.composer.Composer.composeKeyNode(Composer.java:309)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:300)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:288)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:195)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:313)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:304)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:288)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:195)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:313)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:304)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:288)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:195)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:313)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:304)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:288)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:195)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:115)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:135)
+	at org.springframework.boot.env.OriginTrackedYamlLoader$OriginTrackingConstructor.getData(OriginTrackedYamlLoader.java:99)
+	at org.yaml.snakeyaml.Yaml$1.next(Yaml.java:512)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:198)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:166)
+	at org.springframework.boot.env.OriginTrackedYamlLoader.load(OriginTrackedYamlLoader.java:84)
+	at org.springframework.boot.env.YamlPropertySourceLoader.load(YamlPropertySourceLoader.java:50)
+	at org.springframework.boot.context.config.StandardConfigDataLoader.load(StandardConfigDataLoader.java:54)
+	at org.springframework.boot.context.config.StandardConfigDataLoader.load(StandardConfigDataLoader.java:36)
+	at org.springframework.boot.context.config.ConfigDataLoaders.load(ConfigDataLoaders.java:107)
+	at org.springframework.boot.context.config.ConfigDataImporter.load(ConfigDataImporter.java:128)
+	at org.springframework.boot.context.config.ConfigDataImporter.resolveAndLoad(ConfigDataImporter.java:86)
+	at org.springframework.boot.context.config.ConfigDataEnvironmentContributors.withProcessedImports(ConfigDataEnvironmentContributors.java:121)
+	at org.springframework.boot.context.config.ConfigDataEnvironment.processInitial(ConfigDataEnvironment.java:240)
+	at org.springframework.boot.context.config.ConfigDataEnvironment.processAndApply(ConfigDataEnvironment.java:227)
+	at org.springframework.boot.context.config.ConfigDataEnvironmentPostProcessor.postProcessEnvironment(ConfigDataEnvironmentPostProcessor.java:102)
+	at org.springframework.boot.context.config.ConfigDataEnvironmentPostProcessor.postProcessEnvironment(ConfigDataEnvironmentPostProcessor.java:94)
+	at org.springframework.boot.env.EnvironmentPostProcessorApplicationListener.onApplicationEnvironmentPreparedEvent(EnvironmentPostProcessorApplicationListener.java:102)
+	at org.springframework.boot.env.EnvironmentPostProcessorApplicationListener.onApplicationEvent(EnvironmentPostProcessorApplicationListener.java:87)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:131)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:82)
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$environmentPrepared$2(SpringApplicationRunListeners.java:63)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:117)
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:111)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:62)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:374)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:332)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2022-05-03 10:22:10  [ restartedMain:97 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 8864 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:22:10  [ restartedMain:97 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2022-05-03 10:22:10  [ restartedMain:128 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:22:10  [ restartedMain:128 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:22:10  [ restartedMain:464 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:22:10  [ restartedMain:472 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:22:10  [ restartedMain:768 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:22:10  [ restartedMain:832 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 704 ms
+2022-05-03 10:22:10  [ restartedMain:882 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserDao' defined in file [D:\demo\target\classes\com\example\demo\dao\TestUserDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-03 10:22:10  [ restartedMain:913 ] - [ ERROR ]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-03 10:22:21  [ restartedMain:99 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 14304 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:22:21  [ restartedMain:100 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2022-05-03 10:22:21  [ restartedMain:131 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:22:21  [ restartedMain:131 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:22:21  [ restartedMain:491 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:22:21  [ restartedMain:501 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:22:22  [ restartedMain:811 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:22:22  [ restartedMain:876 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 744 ms
+2022-05-03 10:22:22  [ restartedMain:932 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserDao' defined in file [D:\demo\target\classes\com\example\demo\dao\TestUserDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-03 10:22:22  [ restartedMain:964 ] - [ ERROR ]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-03 10:22:28  [ restartedMain:92 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 15980 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:22:28  [ restartedMain:93 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2022-05-03 10:22:28  [ restartedMain:122 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:22:28  [ restartedMain:123 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:22:28  [ restartedMain:456 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:22:28  [ restartedMain:465 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:22:28  [ restartedMain:759 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:22:28  [ restartedMain:822 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 699 ms
+2022-05-03 10:22:28  [ restartedMain:874 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserDao' defined in file [D:\demo\target\classes\com\example\demo\dao\TestUserDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-03 10:22:28  [ restartedMain:904 ] - [ ERROR ]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-03 10:23:04  [ restartedMain:97 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 14888 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:23:04  [ restartedMain:97 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2022-05-03 10:23:04  [ restartedMain:127 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:23:04  [ restartedMain:127 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:23:05  [ restartedMain:459 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:23:05  [ restartedMain:467 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:23:05  [ restartedMain:765 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:23:05  [ restartedMain:833 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 706 ms
+2022-05-03 10:23:05  [ restartedMain:881 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController': Unsatisfied dependency expressed through field 'testUserService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserServiceImpl': Unsatisfied dependency expressed through field 'testUserDao'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testUserDao' defined in file [D:\demo\target\classes\com\example\demo\dao\TestUserDao.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-03 10:23:05  [ restartedMain:910 ] - [ ERROR ]  
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-03 10:23:41  [ restartedMain:93 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 17512 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:23:41  [ restartedMain:94 ] - [ INFO ]  The following profiles are active: dev
+2022-05-03 10:23:41  [ restartedMain:124 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:23:41  [ restartedMain:124 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:23:41  [ restartedMain:448 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:23:41  [ restartedMain:456 ] - [ INFO ]  Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:23:41  [ restartedMain:738 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:23:41  [ restartedMain:803 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 679 ms
+2022-05-03 10:23:42  [ restartedMain:1129 ] - [ INFO ]  Adding welcome page template: index
+2022-05-03 10:23:42  [ restartedMain:1217 ] - [ INFO ]  test - Starting...
+2022-05-03 10:23:42  [ restartedMain:1558 ] - [ INFO ]  test - Start completed.
+2022-05-03 10:23:42  [ restartedMain:1594 ] - [ INFO ]  LiveReload server is running on port 35729
+2022-05-03 10:23:42  [ restartedMain:1614 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-03 10:23:42  [ restartedMain:1626 ] - [ INFO ]  Started DemoApplication in 1.755 seconds (JVM running for 2.377)
+2022-05-03 10:23:42  [ restartedMain:1628 ] - [ INFO ]  ------------Demo启动完成！------------
+2022-05-03 10:24:35  [ http-nio-8080-exec-1:54464 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2022-05-03 10:24:35  [ http-nio-8080-exec-1:54464 ] - [ INFO ]  Completed initialization in 0 ms
+2022-05-03 10:24:41  [ SpringApplicationShutdownHook:60596 ] - [ INFO ]  test - Shutdown initiated...
+2022-05-03 10:24:41  [ SpringApplicationShutdownHook:60599 ] - [ INFO ]  test - Shutdown completed.
+2022-05-03 10:30:24  [ restartedMain:111 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 10816 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:30:24  [ restartedMain:111 ] - [ INFO ]  The following profiles are active: dev
+2022-05-03 10:30:24  [ restartedMain:146 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:30:24  [ restartedMain:146 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:30:25  [ restartedMain:526 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:30:25  [ restartedMain:536 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:30:25  [ restartedMain:835 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:30:25  [ restartedMain:898 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 752 ms
+2022-05-03 10:30:25  [ restartedMain:1235 ] - [ INFO ]  Adding welcome page template: index
+2022-05-03 10:30:25  [ restartedMain:1324 ] - [ INFO ]  test - Starting...
+2022-05-03 10:30:26  [ restartedMain:1698 ] - [ INFO ]  test - Start completed.
+2022-05-03 10:30:26  [ restartedMain:1738 ] - [ INFO ]  LiveReload server is running on port 35729
+2022-05-03 10:30:26  [ restartedMain:1758 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-03 10:30:26  [ restartedMain:1771 ] - [ INFO ]  Started DemoApplication in 1.9 seconds (JVM running for 2.55)
+2022-05-03 10:30:26  [ restartedMain:1773 ] - [ INFO ]  ------------Demo启动完成！------------
+2022-05-03 10:30:51  [ http-nio-8080-exec-1:26483 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2022-05-03 10:30:51  [ http-nio-8080-exec-1:26483 ] - [ INFO ]  Completed initialization in 0 ms
+2022-05-03 10:31:04  [ SpringApplicationShutdownHook:39817 ] - [ INFO ]  test - Shutdown initiated...
+2022-05-03 10:31:04  [ SpringApplicationShutdownHook:39820 ] - [ INFO ]  test - Shutdown completed.
+2022-05-03 10:34:16  [ restartedMain:98 ] - [ INFO ]  Starting DemoApplication using Java 1.8.0_161 on DESKTOP-LEGION with PID 7280 (D:\demo\target\classes started by golde in D:\demo)
+2022-05-03 10:34:16  [ restartedMain:99 ] - [ INFO ]  The following profiles are active: dev
+2022-05-03 10:34:16  [ restartedMain:136 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-03 10:34:16  [ restartedMain:136 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-03 10:34:17  [ restartedMain:508 ] - [ INFO ]  Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-05-03 10:34:17  [ restartedMain:516 ] - [ INFO ]  Finished Spring Data repository scanning in 5 ms. Found 0 JDBC repository interfaces.
+2022-05-03 10:34:17  [ restartedMain:824 ] - [ INFO ]  Tomcat initialized with port(s): 8080 (http)
+2022-05-03 10:34:17  [ restartedMain:886 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 750 ms
+2022-05-03 10:34:18  [ restartedMain:1252 ] - [ INFO ]  Adding welcome page template: index
+2022-05-03 10:34:18  [ restartedMain:1353 ] - [ INFO ]  test - Starting...
+2022-05-03 10:34:18  [ restartedMain:1715 ] - [ INFO ]  test - Start completed.
+2022-05-03 10:34:18  [ restartedMain:1751 ] - [ INFO ]  LiveReload server is running on port 35729
+2022-05-03 10:34:18  [ restartedMain:1771 ] - [ INFO ]  Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-03 10:34:18  [ restartedMain:1785 ] - [ INFO ]  Started DemoApplication in 1.905 seconds (JVM running for 2.605)
+2022-05-03 10:34:18  [ restartedMain:1787 ] - [ INFO ]  ------------Demo启动完成！------------
+2022-05-03 10:34:48  [ http-nio-8080-exec-1:31478 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2022-05-03 10:34:48  [ http-nio-8080-exec-1:31479 ] - [ INFO ]  Completed initialization in 1 ms
+2022-05-03 10:34:57  [ SpringApplicationShutdownHook:40443 ] - [ INFO ]  test - Shutdown initiated...
+2022-05-03 10:34:57  [ SpringApplicationShutdownHook:40446 ] - [ INFO ]  test - Shutdown completed.
