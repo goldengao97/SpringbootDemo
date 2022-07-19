@@ -1,6 +1,6 @@
 package com.example.demo.service.impl;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSON;
 import com.example.demo.bean.TestUser;
 import com.example.demo.dao.TestUserDao;
 import com.example.demo.service.TestUserService;
@@ -29,7 +29,7 @@ public class TestUserServiceImpl implements TestUserService {
     @Override
     public String findUser(String id) {
         TestUser testUser = testUserDao.selectByPrimaryKey(Integer.valueOf(id));
-        return (null==testUser?"查无此人": JSONObject.toJSONString(testUser));
+        return (null==testUser?"查无此人": JSON.toJSONString(testUser));
     }
 
     /**
